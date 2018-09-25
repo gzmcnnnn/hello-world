@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi humans!
+I'm Gizem.I am trying to use github.
